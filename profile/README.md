@@ -4,4 +4,4 @@ The ONLY annotated CustomerRelationshipMgmt / WorkOrder / ProjMgmt app you will 
 
 YOUR discipline of improving your habits by requires daily exercise and refinement ... it's about finding ways to listen better, to pay closer attention to what works for people and using/simplifying tools/methods ... do not ever let your workflow become calcified because are too attached to an APP. 
 
-Your cognitive flexibility is the APP that you must exercise, continually refine, occasionally refactor in order to be the last, most productive, least expensive APP you will will ever need.
+Your cognitive flexibility is the APP that you must exercise, continually refine, occasionally refactor in order to be the best, most productive, least expensive APP you will will ever need. You must make it better tomorrow in order to make it still better next week ... if you can improve by three percent every two weeks, you more than double your output in less than a year.
