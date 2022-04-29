@@ -1,7 +1,20 @@
-The ONLY annotated CustomerRelationshipMgmt / WorkOrder / ProjMgmt app you will ever need.
+Knowledge development is never an INDIVIDUAL thing anymore ... it requires teams, competition and asynchronous collaboration that extends across the globe and over generations ... knowledge comes from ideas as well as review and refinement ... ***knowledge depends upon lots of annotations, discussions of annotations and continual debate/argument of the annoations***.
 
-***HINT: It's YOU.*** Well, it's you but only if you are committed to "sharpening the saw" or "leveling up your skils" or ***whatever cliche heuristic that you want to use to trigger YOU to never settle*** but instead look better and faster methods, SIMPLER tools. 
+If we want to contribute something to improving team creative processes [which is what the goal of annotify.app is about] we will need to consider and reconsider our assumptions on what the rough schematic of the team creative processes looks like.
 
-YOUR discipline of improving your habits by requires daily exercise and refinement ... it's about finding ways to listen better, to pay closer attention to what works for people and using/simplifying tools/methods ... do not ever let your workflow become calcified because are too attached to an APP. We use lists and annotation tools to curate and improve lists of things to improve.
+Naturally, the creative processes of different inventors and engineering research and development teams will be radically different, but generally nowadays invention of complex products happens **in teams.**  Thus annotify.app will necessarily be developed first as something that a team might use.This means that it might be more formally structured and methodical than an approach that an individual creative artist would use. 
 
-Your cognitive flexibility is the APP that you must exercise, continually refine, occasionally refactor in order to be the best, most productive, least expensive APP you will will ever need. You must make it better tomorrow in order to make it still better next week ... if you can improve by three percent every two weeks, you more than double your output in less than a year.
+We would foresee that the annotify.app solution would probably be consumed as a cloneable Git repository, of analysis tools ... perhap something like annotated curated collections or Jupyter noteboks to analyze lists of dataset, ie something that could run on an individual machine or in a collaborative environment like GitPod or BinderHub.
+
+In order to offer a tool catering to collaborative annotation in different kinds of inventive or problem-solving teams, we need to start with a very rough schematic of approximately what the creative problem-solving process by teams will look like:
+
+1) Identification of needs and scope of problem
+2) Analysis of these needs and implicit underlying assumptions
+3) A review of existing solutions and applicable information
+4) Brainstorming or formulation of lists of all possible solutions
+5) Prioritized analysis of likely solutions and study of difference
+6) Birth of a new idea or new set of ideas to test
+7) Designed experimentation to test factor levels and confirmation of concept
+8) Technical implementation and testing of alpha minimal viable product (MVP)
+9) Review of results of test of alpha MVP with either complete re-examination starting at the first step OR refinement of MVP for either another round of alpha MVP testing or more detailed technical implementation of beta minimal viable product with actual users
+10) Review of results of test of beta MVP with re-examination starting at prior step OR refinement of MVP for either another round of beta MVP testing or production launch.  
