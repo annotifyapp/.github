@@ -1,1 +1,9 @@
-Knowledge development is almost a swarm-thing anymore ... knowledge evolves rapidly in adhoc teams or swarms which develop around a topic, which is like the queen bee giving off a pheromone ... the swarm forms out of love of the idea and knowledge develops either through some sense of [hopefully polite] social competition and asynchronous collaboration which extends across the globe and across platforms [other than just GitHub, ArXiv, PubMed, ConnectedPapers and soical media] ... knowledge might have it's earliest genesis with the conception of a coherent shared/riffed upon idea, but most of the development comes thereafter through an almost combative process of discussion, review, revision and further competitive refinement ... ***knowledge depends upon lots of annotations, discussions of annotations and continual debate/argument of the annoations***.
+# Annotify.APP is about keeping ecoystems of ideas, concepts, data
+
+*It's not about beekeeping; annotify.app is about managing the complexity of professional knowledge hives.* 
+
+Knowledge development is a multi-hive swarm ... it is never an individual thing anymore; it is seldom even just a team or group thing -- it's not even contained within associations anymore
+
+***Knowledge depends upon lots of cognitive differences.***  To handle this, we read more than ever, analyze more data and make annotations which we share and review ... because we need hybrid intelligence, not just AI/ML. We need creative difference. Different appraisals of lots of connections and contradictions along with an ongoing derivative debate/argument of the annoations, connections, contradictions.
+
+**Annotify.APP is about keeping ecoystems of ideas, concepts, data.**
