@@ -1,9 +1,11 @@
-# Annotify.APP is about keeping ecoystems of ideas, concepts, data
+# Ecoystems of Ideas, Concepts, Data
 
-*It's not about beekeeping; annotify.app is about managing the complexity of professional knowledge hives.* 
+Knowledge development is like a multi-hive swarm ... it is never an individual thing anymore; it is seldom even just a team or group thing -- it's not even contained within associations anymore, since there are different stakeholders.
 
-Knowledge development is a multi-hive swarm ... it is never an individual thing anymore; it is seldom even just a team or group thing -- it's not even contained within associations anymore
+***Knowledge depends upon crowds that contain an unmanagably complex array of cognitive differences.***  To handle this, we read more than ever, we analyze far more data, we engage in conferences with shared desktops with people around the globe -- all the while we make annotations which we share, review and follow up on ... because we need hybrid intelligence, not just AI/ML.
 
-***Knowledge depends upon lots of cognitive differences.***  To handle this, we read more than ever, analyze more data and make annotations which we share and review ... because we need hybrid intelligence, not just AI/ML. We need creative difference. Different appraisals of lots of connections and contradictions along with an ongoing derivative debate/argument of the annoations, connections, contradictions.
+Knowledge requires complex, creative differences ... there's no way to get there from just one side ... the esteem for which you hold that one side is an impediment to understanding the complex, creative differences.
 
-**Annotify.APP is about keeping ecoystems of ideas, concepts, data.**
+Knowledge requires different appraisals of lots of connections and contradictory information along with an ongoing derivative meta-debate or meta-argument of the annoations, connections, contradictions.
+
+**The Annotify.APP project is about the tools, methods, processes we use to keep those ecoystems of ideas, concepts, data ... like a beekeeper keeps bees.**
