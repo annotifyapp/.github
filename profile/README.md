@@ -4,8 +4,6 @@ Knowledge development is like a multi-hive swarm ... it is never an individual t
 
 ***Knowledge depends upon crowds that contain an unmanagably complex array of cognitive differences.***  To handle this, we read more than ever, we analyze far more data, we engage in conferences with shared desktops with people around the globe -- all the while we make annotations which we share, review and follow up on ... because we need hybrid intelligence, not just AI/ML.
 
-Knowledge requires complex, creative differences ... there's no way to get there from just one side ... the esteem for which you hold that one side is an impediment to understanding the complex, creative differences.
+Knowledge requires complex, creative differences ... there's no way to get there from just one side ... the esteem for which you hold that one side is an impediment to understanding the complex, creative differences. Knowledge requires different appraisals of lots of connections and contradictory information along with an ongoing derivative meta-debate or meta-argument of the annoations, connections, contradictions.
 
-Knowledge requires different appraisals of lots of connections and contradictory information along with an ongoing derivative meta-debate or meta-argument of the annoations, connections, contradictions.
-
-**The Annotify.APP project is about the tools, methods, processes we use to keep those ecoystems of ideas, concepts, data ... like a beekeeper keeps bees.**
+**The Annotify.APP project is about using patterns from the Pythonic ecosystem (eg Conda package mgmt, Jupyter notebooks, [SnakeMake workflow mgmt system](https://snakemake.readthedocs.io/en/stable/), et al) and [advanced Git[Lab] workflows](https://docs.gitlab.com/ee/topics/gitlab_flow.html) of tools, methods, processes, issues, CI/CD pipelines that might we use to keep ecoystems of ideas, concepts, data ... not exactly like a beekeeper keeps hives of bees that a beekeeper owns, because the ecosystem of knowledge is always moving, changing, going through revolutions.**
