@@ -6,4 +6,8 @@ We believe that this distributed, but version-controlled workflow should work we
 
 # Annotify.App will be an illustrative example of the Annotify.ORG open source workflow mgmt system.
 
-Annotify.APP will be primarily intended to illustrate, in one specific example, how the ANNOTIFY.ORG open source material might be implemented. The goal, at least at first, of ANNOTIFY.APP will be exclusively for illustration ... it is possible that this example could also evolve into a separate product ... but as all open source advocates well know **projects are not products** ... illustrative examples of projects are not immediately intended to be products.
+Annotify.APP will be primarily intended to illustrate, in one specific example, how the ANNOTIFY.ORG open source material might be implemented. 
+
+The goal, at least at first, of ANNOTIFY.APP will be exclusively for illustration. **At first**, the open source project will be developed in order to make this one concrete example of an application work. Later the open source project will be developed for other usage profiles. It is possible that this example could also ***eventually someday*** evolve into a separate product, but not at first.
+
+As all open source advocates well know **projects are not products** ... illustrative examples of projects are not immediately intended to be products.
