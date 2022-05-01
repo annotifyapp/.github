@@ -1,4 +1,6 @@
-# Collaborative workflow mgmt for distributed, reproducible, extensible reliability engineering data analyses with annotated discussion and notifications for peer review.
+# Annotations, notifications drive hybrid cognitive intelligence.
+
+**Annotations and notifications are KEY** ... this is how we will build a collaborative workflow mgmt systems utilizing AI/ML for distributed, reproducible, extensible reliability engineering data analyses with annotated discussion and notifications for peer review. ***It's entirely about the human engagement necessary to HYBRIDIZE cognitive intelligence of trained, automated models.***
 
 In general, we see this implementation as being about using patterns and re-using as much code as possible from the Pythonic data science ecosystem, eg [Conda package mgmt](https://docs.conda.io/en/latest/), the [Jupyter architecture](https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html) and the [standard .ipynb JSON notebook schema](https://github.com/jupyter/nbformat), [SnakeMake workflow mgmt system](https://snakemake.readthedocs.io/en/stable/), as well as others, like [Google Colaboratory](https://colab.research.google.com/) or [Amazon EMR JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub.html) or others which use a similar, ***nearly*** standard architecture.
 
