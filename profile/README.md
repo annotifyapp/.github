@@ -1,3 +1,3 @@
-# Annotations/tagging and AI-driven notifications coach collaborative hybrid cognitive intelligence.
+# Get Smart now ... OPEN SOURCE the lowest common denominator AI/ML driving proprietary recommendation engines.
 
-*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **It's ALL in the mind.**
+HYBRID intelligence depends upon different cognitive intelligences of humans using curated, open, forkable, collaborative AI machine learning to continually ***get smarter*** than proprietary, closed-source recommendation engines can ever be. 
