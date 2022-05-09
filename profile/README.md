@@ -1,4 +1,4 @@
-**Get Smart
+**Get Smart**
 
 ## OPEN SOURCE the lowest common denominator AI/ML driving proprietary recommendation engines.
 
