@@ -1,5 +1,5 @@
 **Get Smart!**
  
-***We learn from how others learn*** ... that includes deeply recursively learning about how other humans learn about learning processes ... which means that it is also about learning from machines and how [others optimize and design learning machines](https://register.nvidia.com/flow/nvidia/gtcfall2022/attendeeportal/page/sessioncatalog/session/1655232479493001Rm6W) ... from the collaborative development processes of learning machines evolves based upon following and ***annotating*** performance monitoring data of tensor cores but also by setting up ***automated notations*** from entirely different, competing learning technologies ... **annotification** is entirely about ***the humility of awareness*** and *appreciating the beauty of other modeds of thought that arise out of thinking entirely differently.* 
+***We learn from how others learn*** ... we are not born smart, we #GetSmart ... we get smarter through continuous integration and continously development of our learning tool chain ... surveying, reusing, understanding, simplifying and generally dogfooding what is working best.
 
-Competitive HYBRID intelligence depends upon different cognitive intelligences of humans using curated, open, forkable, collaborative AI machine learning to continually ***get smarter*** than proprietary, closed-source recommendation engines can ever be. 
+# Every single day, we can get smarter and get smarter about getting smarter.
