@@ -1,4 +1,4 @@
-# We are not born smart, we #GetSmart.
+# We are not born smart, we GET SMART.
 
 Science is social hybrid intelligence ... as maps were replaced by GPS, science is now being defined by the applied intelligence of scientometry.
 
