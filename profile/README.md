@@ -1,6 +1,6 @@
 # We are not born smart, we GET SMART.
 
-Science is social hybrid intelligence ... as maps were replaced by GPS, science is now being defined by the applied intelligence of scientometry.
+Information is physical, but knowledge is human. As a form of knowledge, science is socially applied hybrid intelligence ... as maps were replaced by GPS, science is now being defined by the applied connected, annotated intelligence of scientometry.
 
 We not only learn from what others have learned; we also learn how others learn -- [scientometry](https://en.wikipedia.org/wiki/Scientometrics) is about extending our learning technologies that depend upon [citation metrology](https://en.wikipedia.org/wiki/Category:Citation_metrics) beyond data visualizations, connection graphs and information dashboards.  
 
